@@ -61,7 +61,7 @@ class Main:
                     |___/
             D S H E L L    by    D e l t a O S
             Author: maximovik
-            OS: DeltaOS v0.0.2
+            OS: DeltaOS v0.0.2-1
             """).strip(),
                 "cyan",
             )
