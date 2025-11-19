@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ```
 .____  ____  _          _ _
